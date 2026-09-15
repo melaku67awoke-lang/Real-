@@ -1,0 +1,6 @@
+{
+  "name": "RealCoin",
+  "description": "RealCoin cryptocurrency wallet, P2P exchange, and payment application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
